@@ -2,19 +2,19 @@
   "version": "0.2",
   "language": "en",
   "words": [
+    "analysing",
     "CCLA",
     "CODEOWNER",
-    "ICLA",
-    "SIGUSR",
-    "Senzing",
-    "analysing",
+    "cooldown",
     "dumpstack",
     "esbenp",
+    "ICLA",
+    "kernelsam",
     "pydev",
     "pylint",
+    "Senzing",
+    "SIGUSR",
     "stackoverflow"
   ],
-  "ignorePaths": [
-    ".git/**"
-  ]
+  "ignorePaths": [".git/**"]
 }
